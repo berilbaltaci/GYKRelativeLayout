@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GYKCustomAdapter</string>
+    <string name="btn1Text">Button 1</string>
+    <string name="btn2Text">Button 2</string>
+    <string name="btn3Text">Button 3</string>
+    <string name="btn4Text">Button 4</string>
+</resources>
